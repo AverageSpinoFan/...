@@ -7,6 +7,6 @@ if pw == 'TryingToForget2507':
  print("Will you still talk to me?")
  print("You're genuinely the person I feel safest talking to. I can talk to you more openly than anyone else without feeling insecure.")
 elif pw == '07/07/2023':
- print('But he thinks I'm ugly...')
+ print("But he thinks I'm ugly...")
 else:
  print('o lzoss sgct ngx')
